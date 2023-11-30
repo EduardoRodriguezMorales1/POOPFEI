@@ -40,7 +40,7 @@ public class Pro1F {
         List<RegistroAcademico> registros = generador.generarRegistrosAcademicos();
             System.out.println(numin.generarNumeroInscripcion(registros));
         */
-    
+        /*
         CrudAlumnos crudAlumnos = new CrudAlumnos();
         GeneradorDatosPersonales generadorDatosPersonales = new GeneradorDatosPersonales();
         GeneradorRegistrosAcademicos generadorRegistrosAcademicos = new GeneradorRegistrosAcademicos();
@@ -115,6 +115,8 @@ public class Pro1F {
         crudAlumnos.actualizarAlumno(numeroInscripcion, nuevoAlumno);
     }
         
+        */
         
         
+    }    
 }
